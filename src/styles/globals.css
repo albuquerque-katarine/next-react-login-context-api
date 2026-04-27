@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@import "./../components/Header/Header.css";
+@import "./../components/Footer/Footer.css";
+@import "./../components/ContentPage/Content.css";
+@import "./../components/Field/Field.css";
+@import "./../components/FormContent/FormContent.css";
+@import "./../components/ResultData/ResultData.css";
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+#page {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

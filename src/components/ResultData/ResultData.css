@@ -1,0 +1,12 @@
+.form_result {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    color: #000;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.form_result p strong {
+    color: #00f;
+}
