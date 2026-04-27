@@ -4,6 +4,8 @@
 
 ![alt text](image.png)
 
+Acesse o site: [Login Context API](https://albuquerque-katarine.github.io/next-react-login-context-api/)
+
 ## Objetivo
 
 Aplicação de login desenvolvida com Next.js e React, utilizando Context API para gerenciamento de estado global.
